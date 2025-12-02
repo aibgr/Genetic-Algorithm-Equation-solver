@@ -30,9 +30,3 @@ Pure Python implementation of a Real-Coded Genetic Algorithm for solving nonline
 - [Proposal.pdf](Proposal.pdf) – Problem definition, literature review & methodology  
 - [Rep.pdf](Rep.pdf) – Complete results, analysis, comparisons & conclusions (28 pages)
 
-## Quick Start
-
-```bash
-git clone https://github.com/aibgr/Genetic-Algorithm-Equation-solver.git
-cd Genetic-Algorithm-Equation-solver
-pip install -r requirements.txt
